@@ -1,6 +1,6 @@
 # NeoServer
 
-
+<img width="1672" height="941" alt="a766cbdf-0ccf-4cde-bbdb-762b6f6ed4ed" src="https://github.com/user-attachments/assets/da8e363e-dd90-4327-b9d8-22c5e45f671a" />
 
 A complete OG Fortnite private server backend built with **TypeScript, Express, and MongoDB**.
 
