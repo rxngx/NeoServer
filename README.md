@@ -1,5 +1,7 @@
 # NeoServer
 
+blob:https://chatgpt.com/a766cbdf-0ccf-4cde-bbdb-762b6f6ed4ed
+
 A complete OG Fortnite private server backend built with **TypeScript, Express, and MongoDB**.
 
 NeoServer combines the best features from multiple open-source Fortnite backends into a single, fully typed TypeScript project — covering authentication, player profiles, cosmetics, gifting, refunds, friends, XMPP chat, party system, arena, XP progression, battle pass, matchmaking, tournaments, events, shop rotation, Support-a-Creator, EOS compatibility, and a full Discord bot.
