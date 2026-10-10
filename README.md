@@ -1,6 +1,6 @@
 # NeoServer
 
-![Uploading image.png…]()
+
 
 A complete OG Fortnite private server backend built with **TypeScript, Express, and MongoDB**.
 
