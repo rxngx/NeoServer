@@ -1,6 +1,6 @@
 # NeoServer
 
-blob:https://chatgpt.com/a766cbdf-0ccf-4cde-bbdb-762b6f6ed4ed
+![Uploading image.png…]()
 
 A complete OG Fortnite private server backend built with **TypeScript, Express, and MongoDB**.
 
