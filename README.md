@@ -608,3 +608,10 @@ NeoServer-main/
 ---
 
 *NeoServer — TypeScript backend for a custom OG Fortnite server environment.*
+
+## Coming Soon
+
+- Gifting Battle Pass
+- 1:1 Vbucks tab
+- More XP & Battle Pass progression seasons
+- A separate game server
