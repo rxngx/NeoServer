@@ -611,10 +611,13 @@ NeoServer-main/
 
 ## Coming Soon
 
+- Creative Support
+- Save The World Support
 - Gifting Battle Pass
 - 1:1 Vbucks tab
 - More XP & Battle Pass progression seasons
-- A separate game server
+- A separate Game Server
+- A separate Matchmaker
 
 ## Credits
 
