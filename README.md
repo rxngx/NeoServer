@@ -615,3 +615,8 @@ NeoServer-main/
 - 1:1 Vbucks tab
 - More XP & Battle Pass progression seasons
 - A separate game server
+
+## Credits
+
+- [NeoniteDev](https://github.com/NeoniteDev/) Using [NeoniteV2](https://github.com/NeoniteDev/NeoniteV2) references and code.
+- [Project Reload](https://github.com/Project-Reload) Using [Reload-Backend](https://github.com/Project-Reload/Reload-Backend) references and code.
