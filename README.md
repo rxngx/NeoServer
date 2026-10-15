@@ -616,6 +616,9 @@ NeoServer-main/
 - Gifting Battle Pass
 - 1:1 Vbucks tab
 - More XP & Battle Pass progression seasons
+- Website
+- login with epic account
+- Login with google account (On website)
 - A separate Game Server
 - A separate Matchmaker
 
